@@ -1,6 +1,9 @@
 # amd_link_analysis
-# Algorithms for Massive Data
+# Algorithm for Massive Data – Project 3: Link Analysis
 ### Amazon Books Review Dataset
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/ZhNurlayeva/amd_link_analysis/blob/main/amd_link_analysis.ipynb)
 
 **Author:** Zhanat Nurlayeva
 **Programme:** Master in Data Science for Economics  
