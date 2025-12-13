@@ -1,5 +1,5 @@
 # amd_link_analysis
-# PageRank-Based Book Recommendation Networks  
+# Algorithm for Massive Data
 ### Amazon Books Review Dataset
 
 **Author:** Zhanat Nurlayeva
