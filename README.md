@@ -5,7 +5,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/ZhNurlayeva/amd_link_analysis/blob/main/amd_link_analysis.ipynb)
 
-
 **Author:** Zhanat Nurlayeva
 **Programme:** Master in Data Science for Economics  
 **Course:** Algorithms for Massive Data  
