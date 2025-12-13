@@ -1,5 +1,5 @@
 # amd_link_analysis
-# Algorithm for Massive Data
+# Algorithms for Massive Data
 ### Amazon Books Review Dataset
 
 **Author:** Zhanat Nurlayeva
