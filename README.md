@@ -8,7 +8,7 @@ https://colab.research.google.com/gist/ZhNurlayeva/5da744062ee4ea1df48787f9f4c9d
 **Author:** Zhanat Nurlayeva
 **Matriculation number** 30664A
 **Programme:** Master in Data Science for Economics  
-**Course:** Algorithms for Massive Data  
+**Course:** Algorithms for Massive Data   
 **University:** Università degli Studi di Milano  
 **Academic Year:** 2024–2025  
 
