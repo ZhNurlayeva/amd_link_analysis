@@ -1,6 +1,6 @@
 # amd_link_analysis
 
-https://colab.research.google.com/gist/ZhNurlayeva/5da744062ee4ea1df48787f9f4c9db16/amd_link_analysis.ipynb
+https://colab.research.google.com/github/ZhNurlayeva/amd_link_analysis/blob/main/amd_link_analysis.ipynb
 
 # Algorithm for Massive Data – Project 3: Link Analysis
 ### Amazon Books Review Dataset
